@@ -22,6 +22,7 @@ After reashing to the quotes directory
 2) scrapy crawl result21 -o Output.csv --nolog in the terminal. Where Output.csv is the file name in which the output will be recorded. 
 
 Then run command mentioned below in case any error : no module found "Parameter"
+ 
  $env:PYTHONPATH = "C:path of the parameter file;$env:PYTHONPATH"
  
  
